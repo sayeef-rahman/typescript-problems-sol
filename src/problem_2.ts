@@ -12,7 +12,7 @@ function arrayOfObj(people: Student[]): Student[] {
 
 const people: Student[] = [
     { name: "Sakib", age: 22 },
-    { name: "Isan", age: 17 },
+    { name: "Isan", age: 16 },
     { name: "Marly", age: 28 }
 ];
 
